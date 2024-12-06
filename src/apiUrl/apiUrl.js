@@ -1,0 +1,1 @@
+export const ngRockUrl = "https://fdfb-130-65-254-6.ngrok-free.app/dcnews"

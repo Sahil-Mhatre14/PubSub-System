@@ -1,0 +1,24 @@
+.publisherForm {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.publisherFormDiv {
+    width: 50%;
+    margin: auto;
+    text-align: center;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.publisherWrapper {
+    width: 50%;
+}
+
+.publisherForms {
+    display: flex;
+    gap: 10px;
+}
